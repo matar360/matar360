@@ -45,8 +45,8 @@
 
 ### Connect with me:
 
-<a href="mailto:mati.stiglitz@gmail.com" target="_blank" rel="some text"><img align="left" alt="gmail" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://api.whatsapp.com/send?phone=972505999838" target="_blank" rel="some text"><img align="left" alt="whatsapp" height ="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:mati.stiglitz@gmail.com" rel="some text"><img align="left" alt="gmail" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://api.whatsapp.com/send?phone=972505999838" rel="some text"><img align="left" alt="whatsapp" height ="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/matar-stiglitz" rel="some text"><img align="left" alt="linkedin" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 <a href="https://www.instagram.com/matar360/" rel="some text"><img align="left" alt="instagram" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
