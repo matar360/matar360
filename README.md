@@ -12,12 +12,11 @@
 <br/>
 
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🔭 I'm a react expert, I love almost everything about it.
+- 🌱 I’m currently learning more about algorithms and web3.
+- 🥅 I’m looking contribute to open source more in 2022.
+- ⚡ Fun fact: I love to to play soccer and to ride horses
+- 😻 "In this sentence there are three errors". How many errors are there in the sentence?
 
 <br/>
 
