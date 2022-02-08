@@ -1,5 +1,8 @@
-### Hi there, I'm Mati, a passionate Full Stack developer 👋
+### 𝗛𝗲𝗹𝗹𝗼, I'm Mati, a passionate Full Stack developer 👋
 
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -49,3 +52,7 @@
 [<img align="left" alt="Visual Studio Code" height ="30px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-right:10px;" />][webdevplaylist]
+
+<br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qc5hyfj7m48g1skwnoy4nbp9j&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=qc5hyfj7m48g1skwnoy4nbp9j&redirect=true)
