@@ -1,4 +1,3 @@
-<div>
 
 [<img align="left" alt="Visual Studio Code" width="300px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" style="padding-right:10px;" />][webdevplaylist]
 <br/>
@@ -8,11 +7,11 @@
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-<div/>
 <br/>
 <br/>
 <br/>
-  <br/>
+<br/>
+
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -20,6 +19,8 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+
+<br/>
 
 
 ### Languages and Tools:
@@ -56,6 +57,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matar360&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 
 ### Connect with me:
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="padding-right:10px;" />][webdevplaylist]
